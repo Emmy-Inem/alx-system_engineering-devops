@@ -1,0 +1,1 @@
+echo "$WATER$STIR" | tr 'waterstir' 'bestchol'

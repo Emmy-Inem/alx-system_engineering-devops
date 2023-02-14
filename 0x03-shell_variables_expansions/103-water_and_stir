@@ -1,1 +1,2 @@
-echo "$WATER$STIR" | tr 'waterstir' 'bestchol'
+#!/bin/bash
+echo "$WATER$STIR" | tr 'waterstir' 'bestchol''

@@ -1,6 +1,2 @@
 #!/bin/bash
-while read -r line
-do
-encoded=$(echo "$line" | tr 'A-Za-z' 'N-ZA-Mn-za-m')
-    echo "$encoded"
-done
+tr 'A-Za-z' 'N-ZA-Mn-za-m'
